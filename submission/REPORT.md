@@ -35,7 +35,7 @@
 - Prompt name: `day13-chat`
 - Version/label baseline: `production`
 - Version/label candidate: `staging`
-- Trace ID của mỗi version: v1 (production): `94636b5fd94baef6b007c7b8bff8f79d` | v2 (staging): `11f808a2cf2b9cdcba8d1b4497f35d03`
+- Trace ID của mỗi version: v1 (production): `11f808a2cf2b9cdcba8d1b4497f35d03` | v2 (staging): `b40183db0ff9e9178c283ebe2695060e`
 - Bằng chứng đổi label hoặc rollback: `submission/evidence/prompt_rollback.png`
 
 ## 5. Dashboard, SLO và alerts
