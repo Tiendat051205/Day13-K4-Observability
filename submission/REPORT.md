@@ -4,7 +4,7 @@
 
 - Tên nhóm: Nhóm Day 13 - K4
 - Repository URL: https://github.com/Tiendat051205/Day13-K4-Observability
-- Commit SHA cuối:26c9fc04f298f2a351c2d89dd238da56422cbb74
+- Commit SHA cuối:06e2a5666ecb175802e2638f3c9dd5188d36ef87
 - Thành viên và vai trò:
   1. Đoàn Ngọc Linh (2A202601762) - Tech Lead/Backend Engineer (Phụ trách CP1: Logging & PII)
   2. Nguyễn Tiến Đạt (2A202601850) - SRE & Alerts Engineer (Phụ trách CP2: Tracing, SLO & Alert)
